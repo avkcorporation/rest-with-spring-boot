@@ -1,0 +1,15 @@
+.submit{
+    font-size: 22px;
+    background: orange;
+    width: 250px;
+    color: #000000;
+}
+
+.submit:hover{
+    background: chartreuse;
+}
+
+body{
+    background-color: #444444;
+    color: #4a9000;
+}
